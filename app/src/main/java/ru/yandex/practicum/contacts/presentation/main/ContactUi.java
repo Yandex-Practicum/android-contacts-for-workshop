@@ -9,4 +9,3 @@ public class ContactUi implements ListDiffInterface<ContactUi> {
         return this.hashCode() == element.hashCode();
     }
 }
-

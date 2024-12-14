@@ -14,4 +14,3 @@ class FilterContactTypeUi implements ListDiffInterface<FilterContactTypeUi> {
         return this.getContactType() == element.getContactType();
     }
 }
-
