@@ -1,4 +1,6 @@
-package ru.yandex.practicum.contacts.presentation.filter;
+package ru.yandex.practicum.contacts.presentation.filter.model;
+
+import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
 
 import android.view.LayoutInflater;
 import android.view.View;

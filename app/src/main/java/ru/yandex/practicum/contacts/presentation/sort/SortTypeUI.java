@@ -14,3 +14,4 @@ class SortTypeUI implements ListDiffInterface<SortTypeUI> {
         return this.getSortType() == element.getSortType();
     }
 }
+
