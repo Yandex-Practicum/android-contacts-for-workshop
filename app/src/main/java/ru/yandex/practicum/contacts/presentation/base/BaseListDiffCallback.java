@@ -16,8 +16,11 @@ public class BaseListDiffCallback<T extends ListDiffInterface> extends DiffUtil.
     }
 
 
+
     @Override
     public Object getChangePayload(@NonNull T oldItem, @NonNull T newItem) {
         return newItem;
     }
+
+
 }
